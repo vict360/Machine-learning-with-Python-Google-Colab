@@ -12,7 +12,7 @@ The Monopoly bank has been serving its customers in Chile for many years and has
 
 The computer science engineers at Monopoly bank have extracted a database based on a request from the new owner of the bank and shared it with Dormammu's engineers at their New York headquarters. The database contains a sample of customers with 12 months of information stored in variables that serve for interpretation and provide as much information as possible to the owners of this bank so they can understand the customers and prepare a strategy to address this new market. The database has variables associated with customer information for each month, i.e., one for each month. The customer is not repeated, and the associated variables are added as an additional column.
 
-![See more here]()
+![See more here](https://colab.research.google.com/drive/1JCagCdDCXpPs5-EuFjxfIlwBFzXcdfIA?usp=sharing)
 
 #### Counter Strike wiinnings - Transversal exam/Case Study 🎮
 In each Counter-Strike: Global Offensive (CS:GO) match, two teams of 5 players each (referred to as terrorists and counter-terrorists) face off. The objective of the terrorist team is to plant a bomb with a 45-second timer at one of two specific sites within a map.
